@@ -1,0 +1,13 @@
+Package: com.rpetrich.multitz
+Name: MultiTZ
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Multiple statusbar time zones
+Maintainer: thebigboss.org <http://thebigboss.org>
+Author: Ryan Petrich <rpetrich+multitz@gmail.com>
+Section: Tweaks
+Tag: purpose::extension
+Homepage: http://rpetri.ch/cydia/multitz/
+Depiction: http://rpetri.ch/cydia/multitz/
+dev: rpetrich
